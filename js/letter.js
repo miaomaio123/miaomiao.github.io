@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;Miao", 
-				"亲爱的^200喵喵<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在与你相处的这段日子里^300，你让我发现了你的许多优点^200、你的魅力，^600和你相处的的感觉真的很好，^600虽然^200只是地下情人，^600但我依旧很开心^600很喜欢你<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;愿我们能一直开心下去，^600为你书写一纸思念，^300情寄一泓缠绵，^600纸短情长，^600爱你❤️<br><br><p style='float:right; display:block; width:20px;'>^1000H</p>"],
+				"亲爱的^200喵喵<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在与你相处的这段日子里^300，你让我发现了你的许多优点，^1000以及你的魅力。^600我喜欢与你相处的感觉，^600我喜欢和你打游戏，^600我喜欢和你打电话^600我喜欢和你聊天，^600我喜欢^1000你<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为你书写一纸思念，^300情寄一泓缠绵，^600纸短情长，^600想你❤️<br><br><p style='float:right; display:block; width:20px;'>^1000H</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
